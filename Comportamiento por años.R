@@ -1,4 +1,4 @@
-# Pruebas
+# Pruebas 17
 # Nacimientos de 10 - 14 años
 barplot(Nacimientos_2018$`De 10-14 Años`, col = "red")
 barplot(Nacimientos_2019$`De 10-14 Años`, col = "green")
